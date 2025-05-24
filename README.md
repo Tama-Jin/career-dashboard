@@ -1,56 +1,36 @@
-# Career Dashboard
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-転職活動を効率化するキャリア管理アプリ（React + Firebase）
+## Getting Started
 
-## 📌 概要
+First, run the development server:
 
-Career Dashboardは、求職者が自分の転職活動を効率的に進めるための管理ツールです。応募企業、面接予定、選考ステータス、企業メモなどを一元管理でき、転職活動の見える化を目指しています。
-
-## 🛠 使用技術
-
-- Frontend: React, TypeScript, Tailwind CSS
-- UIライブラリ: shadcn/ui（Radix UI + Tailwind CSS）
-- Backend（予定）: Firebase（Authentication, Firestore）
-- Hosting: GitHub Pages / Vercel
-
-## ✨ 主な機能（予定）
-
-- 📄 応募履歴の登録・編集・削除
-- 🗓 面接日程カレンダー管理
-- 🏷 選考ステータス別タグ分類（応募済 / 面接予定 / 内定 等）
-- 📝 企業メモ保存機能
-- 🔍 キーワード・タグでの検索・フィルター機能
-
-## 📷 スクリーンショット（作成中）
-
-※ UIデザイン・画面構成は現在作成中です。
-
-## 🚀 デプロイ先（予定）
-
-- https://github.com/Tama-Jin/career-dashboard
-
-## 📁 ディレクトリ構成（例）
-
-```
-career-dashboard/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   └── utils/
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-## 👤 作成者
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-ジン・ミョンス（JIN MYOUNGSOO）  
-📧 behi930321@gmail.com  
-📍 東京・多摩地域を拠点に活動中  
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
----
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-> このプロジェクトは、自身の転職体験をもとに企画・設計したものであり、今後も実装を進めてポートフォリオとして完成を目指しています。
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
