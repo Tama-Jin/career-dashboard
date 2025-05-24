@@ -27,7 +27,7 @@ Career Dashboardは、求職者が自分の転職活動を効率的に進める�
 
 ## 🚀 デプロイ先（予定）
 
-- https://your-github-username.github.io/career-dashboard
+- https://github.com/Tama-Jin/career-dashboard
 
 ## 📁 ディレクトリ構成（例）
 
