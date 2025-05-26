@@ -31,6 +31,7 @@ Career Dashboardは、求職者が自分の転職活動を効率的に進める�
 
 ## 📁 ディレクトリ構成（例）
 
+```
 career-dashboard/
 ├── public/
 ├── src/
@@ -42,8 +43,7 @@ career-dashboard/
 ├── package.json
 ├── README.md
 └── tailwind.config.js
-
-
+```
 
 ## 👤 作成者
 
@@ -54,5 +54,3 @@ career-dashboard/
 ---
 
 > このプロジェクトは、自身の転職体験をもとに企画・設計したものであり、技術力と実務力を示すポートフォリオとして継続的に改善・拡張していく予定です。
-
-
