@@ -8,42 +8,42 @@ Career Dashboardは、求職者が自分の転職活動を効率的に進める�
 
 ## 🛠 使用技術
 
-- Frontend: Next.js(react), TypeScript, Tailwind CSS
-- UIライブラリ: shadcn/ui（Radix UI + Tailwind CSS）
-- Backend（開発中）: Supabase（Authentication, Database）
-- Hosting: Vercel
+- **Frontend**: Next.js (React), TypeScript, Tailwind CSS  
+- **UIライブラリ**: shadcn/ui（Radix UI + Tailwind CSS）  
+- **Backend（開発中）**: Supabase（Authentication, Database）  
+- **Hosting**: Vercel  
 
 ## ✨ 主な機能（予定）
 
-- 📄 応募履歴の登録・編集・削除
-- 🗓 面接日程カレンダー管理
-- 🏷 選考ステータス別タグ分類（応募済 / 面接予定 / 内定 等）
-- 📝 企業メモ保存機能
-- 🔍 キーワード・タグでの検索・フィルター機能
+- 📄 応募履歴の登録・編集・削除  
+- 🗓 面接日程カレンダー管理  
+- 🏷 選考ステータス別タグ分類（応募済 / 面接予定 / 内定 等）  
+- 📝 企業メモ保存機能  
+- 🔍 キーワード・タグでの検索・フィルター機能  
 
 ## 📷 スクリーンショット（作成中）
 
 ※ UIデザイン・画面構成は現在作成中です。
 
-## 🚀 デプロイ先（予定）
+## 🔗 GitHubリポジトリ
 
-- https://github.com/Tama-Jin/career-dashboard
+- [https://github.com/Tama-Jin/career-dashboard](https://github.com/Tama-Jin/career-dashboard)
 
 ## 📁 ディレクトリ構成（例）
 
-```
 career-dashboard/
 ├── public/
 ├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   └── utils/
+│ ├── components/
+│ ├── pages/
+│ ├── hooks/
+│ └── utils/
 ├── .gitignore
 ├── package.json
 ├── README.md
 └── tailwind.config.js
-```
+
+
 
 ## 👤 作成者
 
@@ -53,4 +53,6 @@ career-dashboard/
 
 ---
 
-> このプロジェクトは、自身の転職体験をもとに企画・設計したものであり、今後も実装を進めてポートフォリオとして完成を目指しています。
+> このプロジェクトは、自身の転職体験をもとに企画・設計したものであり、技術力と実務力を示すポートフォリオとして継続的に改善・拡張していく予定です。
+
+
