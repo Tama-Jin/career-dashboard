@@ -31,17 +31,7 @@ Career Dashboardは、求職者が自分の転職活動を効率的に進める�
 
 ## 📁 ディレクトリ構成（例）
 
-career-dashboard/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── hooks/
-│ └── utils/
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
+<pre><code>## 📁 ディレクトリ構成（例） ``` career-dashboard/ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ ├── hooks/ │ └── utils/ ├── .gitignore ├── package.json ├── README.md └── tailwind.config.js ``` </code></pre>
 
 
 
