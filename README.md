@@ -1,6 +1,6 @@
 # Career Dashboard
 
-転職活動を効率化するキャリア管理アプリ（React + Firebase）
+転職活動を効率化するキャリア管理アプリ（Next.js + TypeScript + Supabase）
 
 ## 📌 概要
 
@@ -8,10 +8,10 @@ Career Dashboardは、求職者が自分の転職活動を効率的に進める�
 
 ## 🛠 使用技術
 
-- Frontend: React, TypeScript, Tailwind CSS
+- Frontend: Next.js(react), TypeScript, Tailwind CSS
 - UIライブラリ: shadcn/ui（Radix UI + Tailwind CSS）
-- Backend（予定）: Firebase（Authentication, Firestore）
-- Hosting: GitHub Pages / Vercel
+- Backend（開発中）: Supabase（Authentication, Database）
+- Hosting: Vercel
 
 ## ✨ 主な機能（予定）
 
